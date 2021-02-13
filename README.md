@@ -1,3 +1,3 @@
 
 FILE 1
-![01](https://sm.ign.com/t/ign_br/screenshot/default/miles-morales-cover_2dvr.1280.jpgraw=true)
+![01](https://github.com/fontnelle/spiderman/blob/main/capa.png)
