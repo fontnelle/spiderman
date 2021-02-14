@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://unform.dev">
-    <img src="https://github.com/fontnelle/spiderman/blob/main/svg/logo-spiderman-git.png" height="55" width="77" alt="Unform" />
+    <img src="https://github.com/fontnelle/spiderman/blob/main/svg/logo-spiderman-git.png" height="77" width="55" alt="Unform" />
   </a>
 </p>
 
